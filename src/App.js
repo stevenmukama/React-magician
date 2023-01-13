@@ -1,13 +1,9 @@
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Hello world
-        </p>
-      </header>
-    </div>
-  );
-}
+import React from 'react'
+import Calculator from './components/Calculator.js';
+import './app.css'
 
-export default App;
+export default function App() {
+  return (
+    <><Calculator/></>
+  )
+}
