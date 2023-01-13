@@ -2,6 +2,11 @@ import React from 'react';
 import './Calculator.css';
 
 class Calculator extends React.Component {
+  constructor() {
+    super();
+    this.state = {};
+  }
+
   render() {
     return (
       <div className="mainCalc">
