@@ -1,53 +1,38 @@
 import React from 'react';
 import './Calculator.css';
-import calculate from './logic/calculate';
 
 class Calculator extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      total: null,
-      next: null,
-      operation: null,
-    };
+  constructor() {
+    super();
+    this.state = {};
   }
 
-  clickHandler = (e) => {
-    const result = calculate(this.state, e.target.textContent);
-    this.setState((prevState) => ({
-      ...prevState,
-      ...result,
-    }));
-  };
-
   render() {
-    const { total, next } = this.state;
     return (
       <div className="mainCalc">
         <div className="firstrowsection">
-          <p className="answertab" type="text">{ next || total || 0}</p>
-          {' '}
+          <input className="firstrow" type="text" value={0} readOnly />
         </div>
         <div className="secondrow">
-          <button type="button" className="firstsection" onClick={this.clickHandler}>AC</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>+/-</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>%</button>
-          <button type="button" className="secondsection" onClick={this.clickHandler}>÷</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>7</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>8</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>9</button>
-          <button type="button" className="secondsection" onClick={this.clickHandler}>x</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>4</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>5</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>6</button>
-          <button type="button" className="secondsection" onClick={this.clickHandler}>-</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>1</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>2</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>3</button>
-          <button type="button" className="secondsection" onClick={this.clickHandler}>+</button>
-          <button type="button" className="firstsectionzero" onClick={this.clickHandler}>0</button>
-          <button type="button" className="firstsection" onClick={this.clickHandler}>.</button>
-          <button type="button" className="secondsection" onClick={this.clickHandler}>=</button>
+          <button type="button" className="firstsection">AC </button>
+          <button type="button" className="firstsection"> +/-</button>
+          <button type="button" className="firstsection"> % </button>
+          <button type="button" className="secondsection"> ÷ </button>
+          <button type="button" className="firstsection">7</button>
+          <button type="button" className="firstsection">8</button>
+          <button type="button" className="firstsection">9</button>
+          <button type="button" className="secondsection">x</button>
+          <button type="button" className="firstsection">4</button>
+          <button type="button" className="firstsection">5</button>
+          <button type="button" className="firstsection">6</button>
+          <button type="button" className="secondsection">-</button>
+          <button type="button" className="firstsection">1</button>
+          <button type="button" className="firstsection">2</button>
+          <button type="button" className="firstsection">3</button>
+          <button type="button" className="secondsection">+</button>
+          <button type="button" className="firstsectionzero">0</button>
+          <button type="button" className="firstsection">.</button>
+          <button type="button" className="secondsection">=</button>
         </div>
       </div>
     );
