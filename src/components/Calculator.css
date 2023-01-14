@@ -13,6 +13,14 @@
   margin: 60px auto;
 }
 
+.answertab {
+  text-align: right;
+  color: white;
+  background: #858693;
+  height: 47px;
+  padding: 10px;
+}
+
 input[type='button'] {
   width: 100px;
   background: #e0e0e0;
