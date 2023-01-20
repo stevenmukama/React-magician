@@ -28,7 +28,7 @@
 
 > This is a project that is built with reactjs and css. You can add, substract, multiply. 
 
-**[Math Magician]** is a...
+**[Math Magician]** is a calculator app built with reactjs and css. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,19 +63,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- **[Add_numbers]**
+- **[Substract_numbers]**
+- **[Multiply_numbers]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,17 +81,14 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+ - nodejs
+ - code editor 
 ### Setup
 
 Clone this repository to your desired folder:
+
+git clone git@github.com:stevenmukama/React-magician.git React-magician
+
 
 <!--
 Example commands:
@@ -116,6 +103,9 @@ Example commands:
 
 Install this project with:
 
+cd React-magician
+ 
+npm install 
 <!--
 Example command:
 
@@ -129,6 +119,7 @@ Example command:
 
 To run the project, execute the following command:
 
+npm start
 <!--
 Example command:
 
@@ -137,61 +128,15 @@ Example command:
 ```
 --->
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- GitHub: [@githubhandle](https://github.com/stevenmukama)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,12 +161,12 @@ If you like this project...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-
+Thanks to Microverse for giving me this opportunity to learn to code. 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for providing this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,13 +176,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What_does_this_project_do?]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [This_is_essentially_a_calculator_app]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
