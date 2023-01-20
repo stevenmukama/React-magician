@@ -69,16 +69,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -91,14 +81,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+ - nodejs
+ - code editor 
 ### Setup
 
 Clone this repository to your desired folder:
@@ -144,30 +128,6 @@ Example command:
 ```
 --->
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -206,7 +166,7 @@ Thanks to Microverse for giving me this opportunity to learn to code.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for providing this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

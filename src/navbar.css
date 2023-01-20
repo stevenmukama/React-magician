@@ -1,9 +1,13 @@
 .navbar {
   display: flex;
-  justify-content: flex-end;
-  padding: 10px;
+  justify-content: space-between;
+  padding: 20px;
 }
 
 .navbaritem {
   padding: 5px;
+}
+
+.navbaritems {
+  display: flex;
 }
