@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.navbaritem {
+  padding: 5px;
+}
