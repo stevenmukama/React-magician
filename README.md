@@ -26,15 +26,13 @@
 
 # 📖 [Bookstore components] <a name="about-project"></a>
 
-> This is a project that is built with reactjs and css.
+> The tech stack that was used include: Reactjs, css.
 
 **[Bookstore components]** is a web app built with reactjs and css. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> The tech stack that was used include: Reactjs, css.
 
 <details>
   <summary>Client</summary>
@@ -204,7 +202,5 @@ I would like to thank Microverse for providing this project.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
