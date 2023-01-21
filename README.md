@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magician] <a name="about-project"></a>
+# 📖 [Bookstore components] <a name="about-project"></a>
 
 > This is a project that is built with reactjs and css. You can add, substract, multiply. 
 
-**[Math Magician]** is a calculator app built with reactjs and css. 
+**[Bookstore components]** is a web app built with reactjs and css. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,9 +63,8 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[Add_numbers]**
-- **[Substract_numbers]**
-- **[Multiply_numbers]**
+- **[view_books]**
+- **[change_routes]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,6 +105,8 @@ Install this project with:
 cd React-magician
  
 npm install 
+
+git checkout bookstore-components
 <!--
 Example command:
 
