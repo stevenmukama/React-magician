@@ -1,18 +1,22 @@
-import React from 'react';
-import Calculator from './components/Calculator';
 import './app.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Books from './components/Books';
+import Categories from './components/Categories';
+import Navbar from './components/Navbar';
 
-class App extends React.Component {
-  constructor() {
-    super();
-    this.state = {};
-  }
-
-  render() {
-    return (
-      <><Calculator /></>
-    );
-  }
+function App() {
+  return (
+    <>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Books />} />
+          <Route path="/categories" element={<Categories />} />
+          <Route path="*" element={<h1> PAGE NOT FOUND</h1>} />
+        </Routes>
+      </Router>
+    </>
+  );
 }
 
 export default App;
