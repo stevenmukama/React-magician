@@ -1,10 +1,8 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Calculator from './components/Calculator';
-import Navbar from './Navbar';
 import './app.css';
-import Quote from './pages/Quote';
-import Home from './pages/Home';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Books from './components/Books';
+import Categories from './components/Categories';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
@@ -12,9 +10,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/quote" element={<Quote />} />
-          <Route path="/calculator" element={<Calculator />} />
+          <Route path="/" element={<Books />} />
+          <Route path="/categories" element={<Categories />} />
           <Route path="*" element={<h1> PAGE NOT FOUND</h1>} />
         </Routes>
       </Router>
