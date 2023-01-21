@@ -26,7 +26,7 @@
 
 # 📖 [Bookstore components] <a name="about-project"></a>
 
-> This is a project that is built with reactjs and css. You can add, substract, multiply. 
+> This is a project that is built with reactjs and css.
 
 **[Bookstore components]** is a web app built with reactjs and css. 
 
@@ -65,6 +65,7 @@
 
 - **[view_books]**
 - **[change_routes]**
+- **[Add_books]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,6 +142,18 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -179,7 +192,11 @@ I would like to thank Microverse for providing this project.
 
 - **[What_does_this_project_do?]**
 
-  - [This_is_essentially_a_calculator_app]
+  - [This_is_essentially_a_book_store_web_app]
+  
+  - **[What_technologies_used_in_this_project?]**
+  
+  - [Reactjs_css]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
