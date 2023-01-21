@@ -6,8 +6,9 @@ function Books() {
   return (
     <div>
       <Book author="author" title="title" />
+      <Book author="author" title="title" />
+      <Book author="author" title="title" />
       <Form />
-      <button type="button">Remove</button>
     </div>
   );
 }
