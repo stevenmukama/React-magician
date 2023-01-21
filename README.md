@@ -26,8 +26,6 @@
 
 # 📖 [Bookstore components] <a name="about-project"></a>
 
-> The tech stack that was used include: Reactjs, css.
-
 **[Bookstore components]** is a web app built with reactjs and css. 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -59,8 +57,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[view_books]**
 - **[change_routes]**
 - **[Add_books]**
@@ -70,8 +66,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -144,7 +138,6 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add_Books_from_API]**
 - [ ] **[Implement_Navigation]**
@@ -165,27 +158,18 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-Thanks to Microverse for giving me this opportunity to learn to code. 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for providing this project.
+I would like to thank Microverse for providing me this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What_does_this_project_do?]**
 
