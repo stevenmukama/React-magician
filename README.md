@@ -26,15 +26,11 @@
 
 # 📖 [Bookstore components] <a name="about-project"></a>
 
-> This is a project that is built with reactjs and css. You can add, substract, multiply. 
-
 **[Bookstore components]** is a web app built with reactjs and css. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> The tech stack that was used include: Reactjs, css.
 
 <details>
   <summary>Client</summary>
@@ -61,18 +57,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[view_books]**
 - **[change_routes]**
+- **[Add_books]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -141,6 +134,16 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Add_Books_from_API]**
+- [ ] **[Implement_Navigation]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -155,19 +158,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
+ - If you like this project kindly add a star to show your support. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-Thanks to Microverse for giving me this opportunity to learn to code. 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for providing this project.
+I would like to thank Microverse for providing me this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,11 +172,13 @@ I would like to thank Microverse for providing this project.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - **[What_does_this_project_do?]**
 
-  - [This_is_essentially_a_calculator_app]
+  - [This_is_essentially_a_book_store_web_app]
+  
+  - **[What_technologies_used_in_this_project?]**
+  
+  - [Reactjs_css]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,8 +186,6 @@ I would like to thank Microverse for providing this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
